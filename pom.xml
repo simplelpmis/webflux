@@ -39,12 +39,6 @@
             <artifactId>reactor-test</artifactId>
             <scope>test</scope>
         </dependency>
-
-        <dependency>
-            <groupId>qq-cloud-central</groupId>
-            <artifactId>tars-client</artifactId>
-            <version>${tars.version}</version>
-        </dependency>
     </dependencies>
 
     <build>
